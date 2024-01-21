@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel ==============================================================================================================================  Data Scientist --------------  svdfdwfdwefwfwefwefwefewfweweewwe  * 🌍  I'm based in Rome * 🚀  I'm currently working on [Vivanta](http://jewdfnjew.io) * 🧠  I'm learning ewdewdwe weft * 🤝  I'm open to collaborating on fewfewfw * ⚡  fewfwewfwefw
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel ==============================================================================================================================  Data Scientist --------------  svdfdwfdwefwfwefwefwefewfweweewwe  * 🌍  I'm based in Rome * 🚀  I'm currently working on [Vivanta](http://jewdfnjew.io) * 🧠  I'm learning ewdewdwe weft * 🤝  I'm open to collaborating on fewfewfw * ⚡  fewfwewfwefw
 
 ### Skills  
 
@@ -17,3 +17,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/msancor/FDS-Final-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=msancor&repo=FDS-Final-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/msancor/ADM-HW4" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=msancor&repo=ADM-HW4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
