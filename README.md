@@ -3,7 +3,7 @@
 ## BSc. in Physics | MSc. in Data Science Student
 
 -  🌍  Born in Mexico City, currently based in Rome 🇮🇹
--  🚀  Currently working as a Data Scientist at [Vivanta](http://vivanta.io)
+-  🚀  Previously, Data Scientist at [Vivanta](http://vivanta.io)
 - 🧠  Currently studying a MSc. in Data Science at the Sapienza University of Rome
 - ⚡  Interested in Machine Learning, Network Science, Social Data Science and the Physics of Complex Systems
 
