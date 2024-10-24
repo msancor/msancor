@@ -5,7 +5,7 @@
 -  🌍  Born in Mexico City, currently based in Rome 🇮🇹
 -  🚀  Previously, Data Scientist at [Vivanta](http://vivanta.io)
 - 🧠  Currently studying a MSc. in Data Science at the Sapienza University of Rome
-- ⚡  Interested in Machine Learning, Network Science, Social Data Science and the Physics of Complex Systems
+- ⚡  Interested in Network Science, Computational Social Science and Data-Driven Modeling of Complex Systems
 
 ### Skills  
 
