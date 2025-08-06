@@ -1,10 +1,10 @@
 # Hello, my name is Miguel Ángel! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## BSc. in Physics | MSc. in Data Science Student
+## PhD Student in Network Science
 
--  🌍  Born in Mexico City, currently based in Rome 🇮🇹
+-  🌍  Born in Mexico City, currently based in Vienna 🇦🇹
 -  🚀  Previously, Data Scientist at [Vivanta](http://vivanta.io)
-- 🧠  Currently studying a MSc. in Data Science at the Sapienza University of Rome
+- 🧠  Previouly studied a MSc in Data Science at the Sapienza University of Rome and a BSc in Physics at UNAM in Mexico City
 - ⚡  Interested in Network Science, Computational Social Science and Data-Driven Modeling of Complex Systems
 
 ### Skills  
